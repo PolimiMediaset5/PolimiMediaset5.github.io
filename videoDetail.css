@@ -91,7 +91,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/screenShot20200615At92651Am.png");
+      background-image: url("assets/screenShot20200615At92651Am-big.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7429,7 +7429,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -7458,7 +7458,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: pointer;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -7506,7 +7506,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: pointer;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -7535,7 +7535,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: pointer;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -7576,7 +7576,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: pointer;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
