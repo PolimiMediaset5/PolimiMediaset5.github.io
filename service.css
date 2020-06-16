@@ -15,7 +15,7 @@
         -ms-overflow-style: none;
      background: black;
       }
-      
+
       
 
       .service {
@@ -44,13 +44,13 @@
       overflow-y: auto;
       background-color: rgba(255, 255, 255, 1);
       width: 1920.00px;
-    height: 1410.00px;
+    height: 1743.00px;
     left: 0px;
     top: 0px;
 
 }
 
-.service .header4dd123a1 {
+.service .header176a1321 {
 
       display: block;
       position: absolute;
@@ -77,11 +77,11 @@
       width: 500.00px;
     height: 126.00px;
     left: 710.00px;
-    top: 160.00px;
+    top: 548.00px;
 
 }
 
-.service .header4dd123a1 .tryAnyMonthlyPlanRiskFreeFor30Days {
+.service .header176a1321 .tryAnyMonthlyPlanRiskFreeFor30Days {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -121,7 +121,7 @@
 
 }
 
-.service .header4dd123a1 .chooseAPlan {
+.service .header176a1321 .chooseAPlan {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -161,7 +161,2063 @@
 
 }
 
-.service .header {
+.service .pricingTable {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 917.00px;
+    height: 630.00px;
+    left: 510.00px;
+    top: 700.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 280.00px;
+    height: 630.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .path253f4292657 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      stroke: rgba(217, 217, 217, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      -webkit-filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+      width: 298.00px;
+    height: 618.00px;
+    left: 0.00px;
+    top: 30.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .mainInfod02c8d1c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 240.00px;
+    height: 267.00px;
+    left: 20.00px;
+    top: 263.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .mainInfod02c8d1c .rectangle126479d738a {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.30000001192092896;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(0, 0, 0, 1);
+      border-bottom-color: rgba(240, 240, 240, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(240, 240, 240, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(240, 240, 240, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(240, 240, 240, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 240.00px;
+    height: 1.00px;
+    left: 0.00px;
+    top: 111.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .mainInfod02c8d1c .x5ActiveEvents {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 30.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 102.00px;
+    height: 106.00px;
+    left: 69.00px;
+    top: 129.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .mainInfod02c8d1c .shareYourWorkExpandYourStorytellingImaginationToANewWorldAllForFree {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 200.00px;
+    height: 88.00px;
+    left: 20.00px;
+    top: -4.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .mainInfod02c8d1c .path2544d9b937b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 0.30196078431372547);
+      box-shadow: none;
+      width: 240.00px;
+    height: 1.00px;
+    left: 0.00px;
+    top: 266.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .price7ceaf39f {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 84.00px;
+    height: 99.00px;
+    left: 98.00px;
+    top: 107.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .price7ceaf39f .personal {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 20.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 84.00px;
+    height: 22.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .price7ceaf39f .x0 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 22.00px;
+    height: 44.00px;
+    left: 31.00px;
+    top: 35.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .price7ceaf39f .perMonthf0810271 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 64.00px;
+    height: 16.00px;
+    left: 10.00px;
+    top: 83.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .price7ceaf39f .x1f1032ea {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 10.00px;
+    height: 20.00px;
+    left: 6.00px;
+    top: 41.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .icon3206ee6d {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 60.00px;
+    height: 60.00px;
+    left: 110.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .icon3206ee6d .ellipse51d1474214 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      stroke: rgba(0, 0, 0, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 60.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .icon3206ee6d .symbol221 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 16.00px;
+    height: 16.00px;
+    left: 22.00px;
+    top: 22.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .icon3206ee6d .symbol221 .path1309524418 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 1);
+      box-shadow: none;
+      width: 16.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .symbol2101 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 120.00px;
+    height: 40.00px;
+    left: 80.00px;
+    top: 560.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .symbol2101 .rectangle1f168d31e {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(0, 0, 0, 1);
+      border-bottom-color: rgba(204, 204, 204, 1);
+      border-bottom-style: none;
+      border-bottom-width: 2.00px;
+      border-left-color: rgba(204, 204, 204, 1);
+      border-left-style: none;
+      border-left-width: 2.00px;
+      border-right-color: rgba(204, 204, 204, 1);
+      border-right-style: none;
+      border-right-width: 2.00px;
+      border-top-color: rgba(204, 204, 204, 1);
+      border-top-style: none;
+      border-top-width: 2.00px;
+      border-top-left-radius: 4.00px;
+      border-top-right-radius: 4.00px;
+      border-bottom-left-radius: 4.00px;
+      border-bottom-right-radius: 4.00px;
+      box-shadow: none;
+      width: 120.00px;
+    height: 40.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price2b5691d7 .symbol2101 .letsTry69c7945f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 12.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 10.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 50.00px;
+    height: 11.00px;
+    left: 35.00px;
+    top: 14.50px;
+
+}
+
+.service .pricingTable .price7a96e876 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 280.00px;
+    height: 630.00px;
+    left: 310.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .path25390183d49 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      stroke: rgba(217, 217, 217, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      -webkit-filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+      width: 298.00px;
+    height: 618.00px;
+    left: 0.00px;
+    top: 30.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .mainInfo1338cc4f {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 240.00px;
+    height: 267.00px;
+    left: 20.00px;
+    top: 263.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .mainInfo1338cc4f .rectangle1264ca9217d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.30000001192092896;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(0, 0, 0, 1);
+      border-bottom-color: rgba(240, 240, 240, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(240, 240, 240, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(240, 240, 240, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(240, 240, 240, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 240.00px;
+    height: 1.00px;
+    left: 0.00px;
+    top: 111.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .mainInfo1338cc4f .x20ActiveEvents50gbStorageSpace30DayTrial {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 30.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 138.00px;
+    height: 106.00px;
+    left: 51.00px;
+    top: 129.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .mainInfo1338cc4f .forCommittedProfessionalsHostYourWorkAndBuildACreativeNetwork30DayFreeOfGuiltTrialPeriod {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 200.00px;
+    height: 88.00px;
+    left: 20.00px;
+    top: -4.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .mainInfo1338cc4f .path254bc12ba35 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 0.30196078431372547);
+      box-shadow: none;
+      width: 240.00px;
+    height: 1.00px;
+    left: 0.00px;
+    top: 266.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .price68ce3a5a {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 96.00px;
+    height: 99.00px;
+    left: 92.00px;
+    top: 107.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .price68ce3a5a .advanced {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 20.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 96.00px;
+    height: 22.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .price68ce3a5a .x10 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 44.00px;
+    height: 44.00px;
+    left: 26.00px;
+    top: 35.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .price68ce3a5a .perMonth7b850af2 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 64.00px;
+    height: 16.00px;
+    left: 16.00px;
+    top: 83.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .price68ce3a5a .x96a91cdc {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 10.00px;
+    height: 20.00px;
+    left: 12.00px;
+    top: 41.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .icon78a9ab07 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 60.00px;
+    height: 60.00px;
+    left: 110.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .icon78a9ab07 .ellipse51919eb479 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      stroke: rgba(0, 0, 0, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 60.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .icon78a9ab07 .symbol222 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 16.00px;
+    height: 16.00px;
+    left: 22.00px;
+    top: 22.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .icon78a9ab07 .symbol222 .path136016f2ba {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 1);
+      box-shadow: none;
+      width: 16.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .symbol2102 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 120.00px;
+    height: 40.00px;
+    left: 80.00px;
+    top: 560.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .symbol2102 .rectangle132ef8ad1 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(0, 0, 0, 1);
+      border-bottom-color: rgba(204, 204, 204, 1);
+      border-bottom-style: none;
+      border-bottom-width: 2.00px;
+      border-left-color: rgba(204, 204, 204, 1);
+      border-left-style: none;
+      border-left-width: 2.00px;
+      border-right-color: rgba(204, 204, 204, 1);
+      border-right-style: none;
+      border-right-width: 2.00px;
+      border-top-color: rgba(204, 204, 204, 1);
+      border-top-style: none;
+      border-top-width: 2.00px;
+      border-top-left-radius: 4.00px;
+      border-top-right-radius: 4.00px;
+      border-bottom-left-radius: 4.00px;
+      border-bottom-right-radius: 4.00px;
+      box-shadow: none;
+      width: 120.00px;
+    height: 40.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price7a96e876 .symbol2102 .letsTryd530a369 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 12.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 10.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 50.00px;
+    height: 11.00px;
+    left: 35.00px;
+    top: 14.50px;
+
+}
+
+.service .pricingTable .price164a39dd {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 280.00px;
+    height: 630.00px;
+    left: 620.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price164a39dd .path253 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      stroke: rgba(217, 217, 217, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      -webkit-filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
+      width: 298.00px;
+    height: 618.00px;
+    left: 0.00px;
+    top: 30.00px;
+
+}
+
+.service .pricingTable .price164a39dd .mainInfo {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 240.00px;
+    height: 267.00px;
+    left: 20.00px;
+    top: 263.00px;
+
+}
+
+.service .pricingTable .price164a39dd .mainInfo .rectangle126 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.30000001192092896;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(0, 0, 0, 1);
+      border-bottom-color: rgba(240, 240, 240, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(240, 240, 240, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(240, 240, 240, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(240, 240, 240, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 240.00px;
+    height: 1.00px;
+    left: 0.00px;
+    top: 111.00px;
+
+}
+
+.service .pricingTable .price164a39dd .mainInfo .unlimitedActiveEventsunlimitedStorageSpaceexternalEmbedding30DayTrial {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 30.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 164.00px;
+    height: 106.00px;
+    left: 38.00px;
+    top: 129.00px;
+
+}
+
+.service .pricingTable .price164a39dd .mainInfo .overAchievingStorytellersLookingToMakeANameOnTheDocumentarySceneNoLimitations {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 24.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 200.00px;
+    height: 88.00px;
+    left: 20.00px;
+    top: -4.00px;
+
+}
+
+.service .pricingTable .price164a39dd .mainInfo .path254 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 0.30196078431372547);
+      box-shadow: none;
+      width: 240.00px;
+    height: 1.00px;
+    left: 0.00px;
+    top: 266.00px;
+
+}
+
+.service .pricingTable .price164a39dd .price {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 88.00px;
+    height: 99.00px;
+    left: 96.00px;
+    top: 107.00px;
+
+}
+
+.service .pricingTable .price164a39dd .price .business {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 20.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 88.00px;
+    height: 22.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price164a39dd .price .x40 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 44.00px;
+    height: 44.00px;
+    left: 22.00px;
+    top: 35.00px;
+
+}
+
+.service .pricingTable .price164a39dd .price .perMonth {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 64.00px;
+    height: 16.00px;
+    left: 12.00px;
+    top: 83.00px;
+
+}
+
+.service .pricingTable .price164a39dd .price .x12673f35 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(199, 4, 4, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 10.00px;
+    height: 20.00px;
+    left: 8.00px;
+    top: 41.00px;
+
+}
+
+.service .pricingTable .price164a39dd .icon {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 60.00px;
+    height: 60.00px;
+    left: 110.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price164a39dd .icon .ellipse51 {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      stroke: rgba(0, 0, 0, 1);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 60.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price164a39dd .icon .symbol223 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 16.00px;
+    height: 16.00px;
+    left: 22.00px;
+    top: 22.00px;
+
+}
+
+.service .pricingTable .price164a39dd .icon .symbol223 .path13 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 1);
+      box-shadow: none;
+      width: 16.00px;
+    height: 16.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price164a39dd .symbol2103 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 120.00px;
+    height: 40.00px;
+    left: 80.00px;
+    top: 560.00px;
+
+}
+
+.service .pricingTable .price164a39dd .symbol2103 .rectangle169dd466f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(0, 0, 0, 1);
+      border-bottom-color: rgba(204, 204, 204, 1);
+      border-bottom-style: none;
+      border-bottom-width: 2.00px;
+      border-left-color: rgba(204, 204, 204, 1);
+      border-left-style: none;
+      border-left-width: 2.00px;
+      border-right-color: rgba(204, 204, 204, 1);
+      border-right-style: none;
+      border-right-width: 2.00px;
+      border-top-color: rgba(204, 204, 204, 1);
+      border-top-style: none;
+      border-top-width: 2.00px;
+      border-top-left-radius: 4.00px;
+      border-top-right-radius: 4.00px;
+      border-bottom-left-radius: 4.00px;
+      border-bottom-right-radius: 4.00px;
+      box-shadow: none;
+      width: 120.00px;
+    height: 40.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.service .pricingTable .price164a39dd .symbol2103 .letsTry {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 12.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 10.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 50.00px;
+    height: 11.00px;
+    left: 35.00px;
+    top: 14.50px;
+
+}
+
+.service .header978a4cfa {
 
       display: block;
       position: absolute;
@@ -192,7 +2248,7 @@
 
 }
 
-.service .header .navigationBar {
+.service .header978a4cfa .navigationBar {
 
       display: block;
       position: absolute;
@@ -223,7 +2279,7 @@
 
 }
 
-.service .header .navigationBar .base8f2e7751 {
+.service .header978a4cfa .navigationBar .baseb9a874e8 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -251,7 +2307,7 @@
 
 }
 
-.service .header .navigationBar .newvideobtn {
+.service .header978a4cfa .navigationBar .newvideobtn {
 
       display: block;
       position: absolute;
@@ -282,7 +2338,7 @@
 
 }
 
-.service .header .navigationBar .newvideobtn .rectangle16fa945a2 {
+.service .header978a4cfa .navigationBar .newvideobtn .rectangle1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -292,6 +2348,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -325,7 +2382,7 @@
 
 }
 
-.service .header .navigationBar .newvideobtn .group117 {
+.service .header978a4cfa .navigationBar .newvideobtn .group117 {
 
       display: block;
       position: absolute;
@@ -337,6 +2394,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+     
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -355,7 +2413,7 @@
 
 }
 
-.service .header .navigationBar .newvideobtn .group117 .newVideo {
+.service .header978a4cfa .navigationBar .newvideobtn .group117 .newVideo {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -365,6 +2423,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+   
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -395,7 +2454,7 @@
 
 }
 
-.service .header .navigationBar .newvideobtn .group117 .x85bd618c {
+.service .header978a4cfa .navigationBar .newvideobtn .group117 .xf9903112 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -405,6 +2464,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
+
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -435,7 +2495,7 @@
 
 }
 
-.service .header .vidologo {
+.service .header978a4cfa .vidologo {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -483,7 +2543,7 @@
 
 }
 
-.service .header .alert {
+.service .header978a4cfa .alert {
 
       display: block;
       position: absolute;
@@ -514,7 +2574,7 @@
 
 }
 
-.service .header .alert .path1 {
+.service .header978a4cfa .alert .path1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -542,7 +2602,7 @@
 
 }
 
-.service .header .search {
+.service .header978a4cfa .search {
 
       display: block;
       position: absolute;
@@ -573,7 +2633,7 @@
 
 }
 
-.service .header .search .rectangle693 {
+.service .header978a4cfa .search .rectangle693 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -617,7 +2677,7 @@
 
 }
 
-.service .header .search .path208 {
+.service .header978a4cfa .search .path208 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -645,7 +2705,7 @@
 
 }
 
-.service .header .inspirations {
+.service .header978a4cfa .inspirations {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -686,7 +2746,7 @@
 
 }
 
-.service .header .feed {
+.service .header978a4cfa .feed {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -727,7 +2787,7 @@
 
 }
 
-.service .header .service9443d5f9 {
+.service .header978a4cfa .service26cd276b {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -768,7 +2828,7 @@
 
 }
 
-.service .header .tutorial {
+.service .header978a4cfa .tutorial {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -809,7 +2869,7 @@
 
 }
 
-.service .header .avatar {
+.service .header978a4cfa .avatar3e4e3df9 {
 
       display: block;
       position: absolute;
@@ -840,7 +2900,7 @@
 
 }
 
-.service .header .avatar .ellipse13 {
+.service .header978a4cfa .avatar3e4e3df9 .ellipse133c253beb {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -850,7 +2910,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: pointer;
+      cursor: default;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -868,7 +2928,7 @@
 
 }
 
-.service .header .ellipse115 {
+.service .header978a4cfa .ellipse115 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -896,7 +2956,7 @@
 
 }
 
-.service .header .line1 {
+.service .header978a4cfa .line1 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -926,7 +2986,7 @@
 
 }
 
-.service .header .line2 {
+.service .header978a4cfa .line2 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -956,7 +3016,7 @@
 
 }
 
-.service .price07fcccfe {
+.service .avatar {
 
       display: block;
       position: absolute;
@@ -980,672 +3040,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 280.00px;
-    height: 630.00px;
-    left: 510.00px;
-    top: 312.00px;
-
-}
-
-.service .price07fcccfe .path25315bdb923 {
-    position: absolute;
-      box-sizing: border-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(255, 255, 255, 1);
-      stroke: rgba(217, 217, 217, 1);
-          stroke-width: 1.00px;
-          stroke-linecap: butt;
-      -webkit-filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
-    filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
-      width: 298.00px;
-    height: 618.00px;
-    left: 0.00px;
-    top: 30.00px;
-
-}
-
-.service .price07fcccfe .mainInfo0d330d46 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 240.00px;
-    height: 267.00px;
-    left: 20.00px;
-    top: 263.00px;
-
-}
-
-.service .price07fcccfe .mainInfo0d330d46 .rectangle126e5742362 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 0.30000001192092896;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(0, 0, 0, 1);
-      border-bottom-color: rgba(240, 240, 240, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(240, 240, 240, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(240, 240, 240, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(240, 240, 240, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 240.00px;
-    height: 1.00px;
-    left: 0.00px;
-    top: 111.00px;
-
-}
-
-.service .price07fcccfe .mainInfo0d330d46 .x5ActiveEvents {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 30.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 102.00px;
-    height: 106.00px;
-    left: 69.00px;
-    top: 129.00px;
-
-}
-
-.service .price07fcccfe .mainInfo0d330d46 .loremIpsumDolorSitAmetConsecteturAdipisicingElitSedDoEiusmodTemporIncididunt703eaafc {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 24.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      width: 200.00px;
-    height: 67.00px;
-    left: 20.00px;
-    top: -4.00px;
-
-}
-
-.service .price07fcccfe .mainInfo0d330d46 .path254c2a2a163 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(0, 0, 0, 0.30196078431372547);
-      box-shadow: none;
-      width: 240.00px;
-    height: 1.00px;
-    left: 0.00px;
-    top: 266.00px;
-
-}
-
-.service .price07fcccfe .priced254caa4 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 84.00px;
-    height: 79.00px;
-    left: 98.00px;
-    top: 107.00px;
-
-}
-
-.service .price07fcccfe .priced254caa4 .personal {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 20.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 84.00px;
-    height: 22.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .price07fcccfe .priced254caa4 .free {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 40.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 74.00px;
-    height: 44.00px;
-    left: 5.00px;
-    top: 35.00px;
-
-}
-
-.service .price07fcccfe .iconff6c176d {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 60.00px;
-    height: 60.00px;
-    left: 110.00px;
-    top: 0.00px;
-
-}
-
-.service .price07fcccfe .iconff6c176d .ellipse51a21b0a2d {
-    position: absolute;
-      box-sizing: border-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(255, 255, 255, 1);
-      stroke: rgba(0, 0, 0, 1);
-          stroke-width: 1.00px;
-          stroke-linecap: butt;
-      box-shadow: none;
-      width: 60.00px;
-    height: 60.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .price07fcccfe .iconff6c176d .symbol221 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 16.00px;
-    height: 16.00px;
-    left: 22.00px;
-    top: 22.00px;
-
-}
-
-.service .price07fcccfe .iconff6c176d .symbol221 .path139128ebd9 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(0, 0, 0, 1);
-      box-shadow: none;
-      width: 16.00px;
-    height: 16.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .price07fcccfe .symbol2101 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 120.00px;
-    height: 40.00px;
-    left: 80.00px;
-    top: 560.00px;
-
-}
-
-.service .price07fcccfe .symbol2101 .rectangle17c00649e {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(0, 0, 0, 1);
-      border-bottom-color: rgba(204, 204, 204, 1);
-      border-bottom-style: none;
-      border-bottom-width: 2.00px;
-      border-left-color: rgba(204, 204, 204, 1);
-      border-left-style: none;
-      border-left-width: 2.00px;
-      border-right-color: rgba(204, 204, 204, 1);
-      border-right-style: none;
-      border-right-width: 2.00px;
-      border-top-color: rgba(204, 204, 204, 1);
-      border-top-style: none;
-      border-top-width: 2.00px;
-      border-top-left-radius: 4.00px;
-      border-top-right-radius: 4.00px;
-      border-bottom-left-radius: 4.00px;
-      border-bottom-right-radius: 4.00px;
-      box-shadow: none;
-      width: 120.00px;
-    height: 40.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .price07fcccfe .symbol2101 .letsTrycaed2454 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 12.00px;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 10.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
       width: 50.00px;
-    height: 11.00px;
-    left: 35.00px;
-    top: 14.50px;
+    height: 50.00px;
+    left: 1601.00px;
+    top: 25.00px;
 
 }
 
-.service .pricef1921905 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 280.00px;
-    height: 630.00px;
-    left: 820.00px;
-    top: 312.00px;
-
-}
-
-.service .pricef1921905 .path253b23c0e5d {
-    position: absolute;
-      box-sizing: border-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(255, 255, 255, 1);
-      stroke: rgba(217, 217, 217, 1);
-          stroke-width: 1.00px;
-          stroke-linecap: butt;
-      -webkit-filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
-    filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
-      width: 298.00px;
-    height: 618.00px;
-    left: 0.00px;
-    top: 30.00px;
-
-}
-
-.service .pricef1921905 .mainInfo52a6c0ee {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 240.00px;
-    height: 267.00px;
-    left: 20.00px;
-    top: 263.00px;
-
-}
-
-.service .pricef1921905 .mainInfo52a6c0ee .rectangle12659d58ad4 {
+.service .avatar .ellipse13 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -1654,8 +3056,8 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      opacity: 0.30000001192092896;
-      cursor: default;
+      opacity: 1;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -1664,1240 +3066,12 @@
       padding-right: 0.00px;
       padding-bottom: 0.00px;
       padding-left: 0.00px;
-      background-color: rgba(0, 0, 0, 1);
-      border-bottom-color: rgba(240, 240, 240, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(240, 240, 240, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(240, 240, 240, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(240, 240, 240, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
+      fill: rgba(255, 255, 255, 0);
       box-shadow: none;
-      width: 240.00px;
-    height: 1.00px;
-    left: 0.00px;
-    top: 111.00px;
-
-}
-
-.service .pricef1921905 .mainInfo52a6c0ee .x20ActiveEvents50gbStorageSpace30DayTrial {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 30.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 138.00px;
-    height: 106.00px;
-    left: 51.00px;
-    top: 129.00px;
-
-}
-
-.service .pricef1921905 .mainInfo52a6c0ee .loremIpsumDolorSitAmetConsecteturAdipisicingElitSedDoEiusmodTemporIncididunt965ed428 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 24.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      width: 200.00px;
-    height: 67.00px;
-    left: 20.00px;
-    top: -4.00px;
-
-}
-
-.service .pricef1921905 .mainInfo52a6c0ee .path25430baf1dc {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(0, 0, 0, 0.30196078431372547);
-      box-shadow: none;
-      width: 240.00px;
-    height: 1.00px;
-    left: 0.00px;
-    top: 266.00px;
-
-}
-
-.service .pricef1921905 .pricec31656ba {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 96.00px;
-    height: 99.00px;
-    left: 92.00px;
-    top: 107.00px;
-
-}
-
-.service .pricef1921905 .pricec31656ba .advanced {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 20.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 96.00px;
-    height: 22.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .pricef1921905 .pricec31656ba .x10 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 40.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 44.00px;
-    height: 44.00px;
-    left: 26.00px;
-    top: 35.00px;
-
-}
-
-.service .pricef1921905 .pricec31656ba .perMonth614d68d1 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 64.00px;
-    height: 16.00px;
-    left: 16.00px;
-    top: 83.00px;
-
-}
-
-.service .pricef1921905 .pricec31656ba .xe7bfeaf2 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 18.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 10.00px;
-    height: 20.00px;
-    left: 12.00px;
-    top: 41.00px;
-
-}
-
-.service .pricef1921905 .iconbc363661 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 60.00px;
-    height: 60.00px;
-    left: 110.00px;
-    top: 0.00px;
-
-}
-
-.service .pricef1921905 .iconbc363661 .ellipse51fd79e409 {
-    position: absolute;
-      box-sizing: border-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(255, 255, 255, 1);
-      stroke: rgba(0, 0, 0, 1);
-          stroke-width: 1.00px;
-          stroke-linecap: butt;
-      box-shadow: none;
-      width: 60.00px;
-    height: 60.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .pricef1921905 .iconbc363661 .symbol222 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 16.00px;
-    height: 16.00px;
-    left: 22.00px;
-    top: 22.00px;
-
-}
-
-.service .pricef1921905 .iconbc363661 .symbol222 .path13ee439641 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(0, 0, 0, 1);
-      box-shadow: none;
-      width: 16.00px;
-    height: 16.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .pricef1921905 .symbol2102 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 120.00px;
-    height: 40.00px;
-    left: 80.00px;
-    top: 560.00px;
-
-}
-
-.service .pricef1921905 .symbol2102 .rectangle1bbc16a9d {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(0, 0, 0, 1);
-      border-bottom-color: rgba(204, 204, 204, 1);
-      border-bottom-style: none;
-      border-bottom-width: 2.00px;
-      border-left-color: rgba(204, 204, 204, 1);
-      border-left-style: none;
-      border-left-width: 2.00px;
-      border-right-color: rgba(204, 204, 204, 1);
-      border-right-style: none;
-      border-right-width: 2.00px;
-      border-top-color: rgba(204, 204, 204, 1);
-      border-top-style: none;
-      border-top-width: 2.00px;
-      border-top-left-radius: 4.00px;
-      border-top-right-radius: 4.00px;
-      border-bottom-left-radius: 4.00px;
-      border-bottom-right-radius: 4.00px;
-      box-shadow: none;
-      width: 120.00px;
-    height: 40.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .pricef1921905 .symbol2102 .letsTry1ba0c6ce {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 12.00px;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 10.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
       width: 50.00px;
-    height: 11.00px;
-    left: 35.00px;
-    top: 14.50px;
-
-}
-
-.service .priced68d0605 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 280.00px;
-    height: 630.00px;
-    left: 1130.00px;
-    top: 312.00px;
-
-}
-
-.service .priced68d0605 .path253 {
-    position: absolute;
-      box-sizing: border-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(255, 255, 255, 1);
-      stroke: rgba(217, 217, 217, 1);
-          stroke-width: 1.00px;
-          stroke-linecap: butt;
-      -webkit-filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
-    filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.1607843137254902));
-      width: 298.00px;
-    height: 618.00px;
-    left: 0.00px;
-    top: 30.00px;
-
-}
-
-.service .priced68d0605 .mainInfo {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 240.00px;
-    height: 267.00px;
-    left: 20.00px;
-    top: 263.00px;
-
-}
-
-.service .priced68d0605 .mainInfo .rectangle126 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 0.30000001192092896;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(0, 0, 0, 1);
-      border-bottom-color: rgba(240, 240, 240, 1);
-      border-bottom-style: none;
-      border-bottom-width: 1.00px;
-      border-left-color: rgba(240, 240, 240, 1);
-      border-left-style: none;
-      border-left-width: 1.00px;
-      border-right-color: rgba(240, 240, 240, 1);
-      border-right-style: none;
-      border-right-width: 1.00px;
-      border-top-color: rgba(240, 240, 240, 1);
-      border-top-style: none;
-      border-top-width: 1.00px;
-      border-top-left-radius: 0.00px;
-      border-top-right-radius: 0.00px;
-      border-bottom-left-radius: 0.00px;
-      border-bottom-right-radius: 0.00px;
-      box-shadow: none;
-      width: 240.00px;
-    height: 1.00px;
-    left: 0.00px;
-    top: 111.00px;
-
-}
-
-.service .priced68d0605 .mainInfo .unlimitedActiveEventsunlimitedStorageSpaceexternalEmbedding30DayTrial {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 30.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 164.00px;
-    height: 106.00px;
-    left: 38.00px;
-    top: 129.00px;
-
-}
-
-.service .priced68d0605 .mainInfo .loremIpsumDolorSitAmetConsecteturAdipisicingElitSedDoEiusmodTemporIncididunt {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 24.00px;
-      letter-spacing: 0.00px;
-      color: rgba(0, 0, 0, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      width: 200.00px;
-    height: 67.00px;
-    left: 20.00px;
-    top: -4.00px;
-
-}
-
-.service .priced68d0605 .mainInfo .path254 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(0, 0, 0, 0.30196078431372547);
-      box-shadow: none;
-      width: 240.00px;
-    height: 1.00px;
-    left: 0.00px;
-    top: 266.00px;
-
-}
-
-.service .priced68d0605 .price {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 88.00px;
-    height: 99.00px;
-    left: 96.00px;
-    top: 107.00px;
-
-}
-
-.service .priced68d0605 .price .business {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 20.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 88.00px;
-    height: 22.00px;
+    height: 50.00px;
     left: 0.00px;
     top: 0.00px;
-
-}
-
-.service .priced68d0605 .price .x40 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 40.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 44.00px;
-    height: 44.00px;
-    left: 22.00px;
-    top: 35.00px;
-
-}
-
-.service .priced68d0605 .price .perMonth {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 14.00px;
-      font-weight: 400;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 64.00px;
-    height: 16.00px;
-    left: 12.00px;
-    top: 83.00px;
-
-}
-
-.service .priced68d0605 .price .xc58fb240 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      letter-spacing: 0.00px;
-      color: rgba(199, 4, 4, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 18.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 10.00px;
-    height: 20.00px;
-    left: 8.00px;
-    top: 41.00px;
-
-}
-
-.service .priced68d0605 .icon {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 60.00px;
-    height: 60.00px;
-    left: 110.00px;
-    top: 0.00px;
-
-}
-
-.service .priced68d0605 .icon .ellipse51 {
-    position: absolute;
-      box-sizing: border-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(255, 255, 255, 1);
-      stroke: rgba(0, 0, 0, 1);
-          stroke-width: 1.00px;
-          stroke-linecap: butt;
-      box-shadow: none;
-      width: 60.00px;
-    height: 60.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .priced68d0605 .icon .symbol223 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 16.00px;
-    height: 16.00px;
-    left: 22.00px;
-    top: 22.00px;
-
-}
-
-.service .priced68d0605 .icon .symbol223 .path13 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      fill: rgba(0, 0, 0, 1);
-      box-shadow: none;
-      width: 16.00px;
-    height: 16.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .priced68d0605 .symbol2103 {
-
-      display: block;
-      position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      overflow-x: unset;
-      overflow-y: unset;
-      background-color: transparent;
-      width: 120.00px;
-    height: 40.00px;
-    left: 80.00px;
-    top: 560.00px;
-
-}
-
-.service .priced68d0605 .symbol2103 .rectangle1 {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(0, 0, 0, 1);
-      border-bottom-color: rgba(204, 204, 204, 1);
-      border-bottom-style: none;
-      border-bottom-width: 2.00px;
-      border-left-color: rgba(204, 204, 204, 1);
-      border-left-style: none;
-      border-left-width: 2.00px;
-      border-right-color: rgba(204, 204, 204, 1);
-      border-right-style: none;
-      border-right-width: 2.00px;
-      border-top-color: rgba(204, 204, 204, 1);
-      border-top-style: none;
-      border-top-width: 2.00px;
-      border-top-left-radius: 4.00px;
-      border-top-right-radius: 4.00px;
-      border-bottom-left-radius: 4.00px;
-      border-bottom-right-radius: 4.00px;
-      box-shadow: none;
-      width: 120.00px;
-    height: 40.00px;
-    left: 0.00px;
-    top: 0.00px;
-
-}
-
-.service .priced68d0605 .symbol2103 .letsTry {
-    position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
-      opacity: 1;
-      cursor: default;
-      margin-top: 0.00px;
-      margin-right: 0.00px;
-      margin-bottom: 0.00px;
-      margin-left: 0.00px;
-      padding-top: 0.00px;
-      padding-right: 0.00px;
-      padding-bottom: 0.00px;
-      padding-left: 0.00px;
-      background-color: rgba(255, 255, 255, 0);
-      text-align: center;
-      line-height: 12.00px;
-      letter-spacing: 0.00px;
-      color: rgba(255, 255, 255, 1);
-      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
-      font-size: 10.00px;
-      font-weight: 700;
-    font-style: normal;
-      font-family: Arial;
-      text-decoration: none;
-      box-shadow: none;
-      overflow-x: unset;
-      overflow-y: unset;
-      white-space: pre;
-      width: 50.00px;
-    height: 11.00px;
-    left: 35.00px;
-    top: 14.50px;
 
 }
 
@@ -2928,11 +3102,11 @@
       width: 1920.00px;
     height: 320.00px;
     left: 0.00px;
-    top: 1090.00px;
+    top: 1423.00px;
 
 }
 
-.service .footer .base2d98f09b {
+.service .footer .base644d1557 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -3430,24 +3604,135 @@
 
 }
 
-.service .header .inspirations:hover{
+.service .header {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 904.00px;
+    height: 308.00px;
+    left: 508.00px;
+    top: 170.00px;
+
+}
+
+.service .header .weAreACommunityGatheredByPassionOfProducingQualityContentAndPowerOfSharedStorieswithVidosUniqueVideoEditingToolsAndStreamingSupportWeTakeCareOfAllTheTechnicalDetailsThatCanInterfereBetweenYouAndYourCreativity {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 30.00px;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 20.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 904.00px;
+    height: 213.00px;
+    left: 0.00px;
+    top: 91.00px;
+
+}
+
+.service .header .whatIsVido {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 40.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Georgia, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 266.00px;
+    height: 46.00px;
+    left: 319.00px;
+    top: 0.00px;
+
+}
+
+
+.service .header978a4cfa  .inspirations:hover{
     cursor:pointer;
     opacity: 1;
 }
 
-.service .header  .feed:hover{
+.service .header978a4cfa   .feed:hover{
     cursor:pointer;
     opacity: 1;
 }
 
-.service .header  .service:hover{
+.service .header978a4cfa  .service:hover{
        cursor:pointer;
     opacity: 1;
 }
 
 
-.service .header  .tutorial:hover{
+.service .header978a4cfa  .tutorial:hover{
        cursor:pointer;
     opacity: 1;
 }
-
