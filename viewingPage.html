@@ -1,36 +1,47 @@
 <!DOCTYPE html>
 <html>
 
-    <head>
-        <meta charset="utf-8">
-        <title>Walking the Tightrope - VIDO</title>
-        
-        <link rel="stylesheet" type="text/css"  href="viewingPage.css">
-    </head>
+<head>
+    <meta charset="utf-8">
+    <title>Walking the Tightrope - VIDO</title>
+
+    <link rel="stylesheet" type="text/css" href="viewingPage.css">
+    <script src="srcs/jquery-3.5.1.min.js"></script>
+</head>
 
 <body>
-    
-    <div id="video-wrapper">  
-    <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
-          <source src="vids/1.mp4" type="video/mp4">
-    </video>
+    <div id="popup_360">
+        <div id="text_popup_360">Entering 360 footages.<br>
+            Please use your mouse to interact.
+        </div>
     </div>
-    
+
+    <div id="video-wrapper">
+        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
+            <source src="vids/1.mp4" type="video/mp4">
+        </video>
+    </div>
+
     <iframe src="https://hyper360.api.eng.it/H360/use?processId=undefined&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&uploaded=YES" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
 
     <script>
         var v1 = document.getElementById('video_1');
-        var v1_wrapper= document.getElementById('video-wrapper');
+        var v1_wrapper = document.getElementById('video-wrapper');
         var v2 = document.getElementById('360_video');
 
         v2.style.display = "none";
-        v1.addEventListener('ended',myHandler,false);
+        v1.addEventListener('ended', myHandler, false);
+
         function myHandler(e) {
+            console.log("finished");
             v1_wrapper.style.display = "none";
+            $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
         }
-      </script>
-      
-</body>
     
+
+    </script>
+
+</body>
+
 </html>
