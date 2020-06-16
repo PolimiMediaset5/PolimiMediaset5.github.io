@@ -11,37 +11,55 @@
 
 <body>
     <div id="popup_360">
-        <div id="text_popup_360">Entering 360 footages.<br>
+        <div id="text_popup_360">Entering 360 segments.<br>
             Please use your mouse to interact.
         </div>
     </div>
 
-    <div id="video-wrapper">
+    <div id="video-wrapper-1">
         <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
             <source src="vids/1.mp4" type="video/mp4">
         </video>
     </div>
 
-    <iframe src="https://hyper360.api.eng.it/H360/use?processId=undefined&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&uploaded=YES" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
+    <iframe src="https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false"  frameborder="0" height="100%" width="100%" id="360_video"></iframe>
+
+    <div id="video-wrapper-3">
+        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_3">
+            <source src="vids/3.mp4" type="video/mp4">
+        </video>
+    </div>
 
     <script>
         var v1 = document.getElementById('video_1');
-        var v1_wrapper = document.getElementById('video-wrapper');
+        var v1_wrapper = document.getElementById('video-wrapper-1');
         var v2 = document.getElementById('360_video');
+        var v3 = document.getElementById('video_3');
+        var v3_wrapper = document.getElementById('video-wrapper-3');
 
+        var load_times = 0;
+
+        v2.onload = function() {
+            load_times = load_times + 1;
+            if (load_times == 2) {
+                console.log("what");
+                v2.style.display = "none";
+                v2.src= "http://www.google.com";
+                v3_wrapper.style.display = "block";
+            }
+
+        };
+        
         v2.style.display = "none";
+        v3_wrapper.style.display = "none";
         v1.addEventListener('ended', myHandler, false);
 
         function myHandler(e) {
-            console.log("finished");
             v1_wrapper.style.display = "none";
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
-        }
-    
 
+        }
     </script>
 
-</body>
-
-</html>
+</body></html>
