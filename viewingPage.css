@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: 'Open Sans', 'Arial', serif;
+    font-family: 'Open Sans', 'Arial', sans-serif;
     height: 100%;
     width: 100%;
     -webkit-font-smoothing: antialiased;
