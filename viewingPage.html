@@ -22,7 +22,7 @@
         </video>
     </div>
 
-    <iframe src="https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false"  frameborder="0" height="100%" width="100%" id="360_video"></iframe>
+    <iframe src="https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
 
     <div id="video-wrapper-3">
         <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_3">
@@ -39,26 +39,37 @@
 
         var load_times = 0;
 
-        v2.onload = function() {
-            load_times = load_times + 1;
-            if (load_times == 2) {
-                console.log("what");
-                v2.style.display = "none";
-                v2.src= "http://www.google.com";
-                v3_wrapper.style.display = "block";
-            }
-
-        };
-        
         v2.style.display = "none";
+        v2.muted = true;
         v3_wrapper.style.display = "none";
+        v3.muted = true;
         v1.addEventListener('ended', myHandler, false);
 
         function myHandler(e) {
             v1_wrapper.style.display = "none";
+            v1.muted = true;
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
+            v2.muted = false;
+        }
 
+
+        v2.onload = function() {
+            load_times = load_times + 1;
+            if (load_times == 2) {
+                v2.muted = true;
+                v2.style.display = "none";
+                v2.src = "http://www.google.com";
+                v3.muted = false;
+                v3_wrapper.style.display = "block";
+            }
+
+        };
+
+        v3.addEventListener('ended', goToDetailPage, false);
+
+        function goToDetailPage(e) {
+            window.location.href = "videoDetail.html";
         }
     </script>
 
