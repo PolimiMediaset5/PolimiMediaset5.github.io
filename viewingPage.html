@@ -44,13 +44,14 @@
         v2.muted = true;
         v3_wrapper.style.display = "none";
         v3.muted = true;
-        v1.muted = false;
         v1.addEventListener('ended', myHandler, false);
-
+            console.log( v1_src);
+        
         function myHandler(e) {
             v1_wrapper.style.display = "none";
             v1.muted = true;
             v1_src.removeAttribute('src');
+            console.log( v1_src);
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
             v2.muted = false;
