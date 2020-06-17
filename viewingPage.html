@@ -18,7 +18,7 @@
 
     <div id="video-wrapper-1">
         <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
-            <source src="vids/1.mp4" type="video/mp4" id="vid1Src">
+            <source src="" type="video/mp4" id="vid1Src">
         </video>
     </div>
 
@@ -48,6 +48,7 @@
         v3.style.display = "none";
         v3.muted = true;
         v3_wrapper.style.display = "none";
+        v1_src.src = "vids/1.mp4";
         v1.addEventListener('ended', myHandler);
 
         function myHandler(e) {
