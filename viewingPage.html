@@ -17,7 +17,7 @@
     </div>
 
     <div id="video-wrapper-1">
-        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
+        <video requestFullScreen controls frameborder="0" height="100%" width="100%" id="video_1">
             <source src="vids/1.mp4" type="video/mp4" id="vid1Src">
         </video>
     </div>
@@ -25,7 +25,7 @@
     <iframe src="https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
 
     <div id="video-wrapper-3">
-        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_3">
+        <video requestFullScreen controls frameborder="0" height="100%" width="100%" id="video_3">
             <source src="vids/3.mp4" type="video/mp4">
         </video>
     </div>
@@ -38,6 +38,11 @@
         var v3 = document.getElementById('video_3');
         var v3_wrapper = document.getElementById('video-wrapper-3');
 
+        
+        $(document).ready(function() { $("#video_1").get(0).play(); });
+        
+        $(document).ready(function() { $("#video_3").get(0).play(); });
+        
         var load_times = 0;
 
         v2.style.display = "none";
