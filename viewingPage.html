@@ -44,10 +44,12 @@
 
         v2.style.display = "none";
         v2.muted = true;
+        
         v3_wrapper.style.display = "none";
         v3.style.display = "none";
         v3.muted = true;
         v3_wrapper.style.display = "none";
+        
         v1_src.src = "vids/1.mp4";
         v1.addEventListener('ended', myHandler);
 
@@ -72,7 +74,7 @@
             load_times = load_times + 1;
             if (load_times == 2) {
                 console.log("vid 2 done!");
-                v2.src = "http://www.google.com";
+                v2.src = "https://www.google.com";
                 v2.style.display = "none";
                 v2.muted = true;
                 
