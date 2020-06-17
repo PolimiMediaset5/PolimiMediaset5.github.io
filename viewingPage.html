@@ -41,7 +41,7 @@
         
         $(document).ready(function() { $("#video_1").get(0).play(); });
         
-        $(document).ready(function() { $("#video_3").get(0).play(); });
+    
         
         var load_times = 0;
 
@@ -72,9 +72,8 @@
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
-       
-          $("#video_1").trigger('pause');
-                         console.log("pause");
+                 $("#video_1").get(0).pause(); 
+            $("#video_3").get(0).play(); 
                 v1.muted = true;
                 v3.muted = false;
                 v3_wrapper.style.display = "block";
