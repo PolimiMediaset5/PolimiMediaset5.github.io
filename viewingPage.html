@@ -6,7 +6,7 @@
     <title>Walking the Tightrope - VIDO</title>
 
     <link rel="stylesheet" type="text/css" href="viewingPage.css">
-    <script src="srcs/jquery-3.5.1.min.js"></script>
+    <script   src="https://code.jquery.com/jquery-3.5.1.slim.js"   integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM="   crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -17,12 +17,12 @@
     </div>
 
     <div id="video-wrapper-1">
-        <video requestFullScreen controls frameborder="0" height="100%" width="100%" id="video_1">
+        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
             <source src="vids/1.mp4" type="video/mp4" id="vid1Src">
         </video>
     </div>
 
-    <iframe src="https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
+    <iframe src="" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
 
     <div id="video-wrapper-3">
         <video requestFullScreen controls frameborder="0" height="100%" width="100%" id="video_3">
@@ -34,13 +34,10 @@
         var v1 = document.getElementById('video_1');
         var v1_src = document.getElementById('vid1Src');
         var v1_wrapper = document.getElementById('video-wrapper-1');
+        var v2_src = "https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false";
         var v2 = document.getElementById('360_video');
         var v3 = document.getElementById('video_3');
         var v3_wrapper = document.getElementById('video-wrapper-3');
-
-        
-        $(document).ready(function() { $("#video_1").get(0).play(); });
-        
     
         
         var load_times = 0;
@@ -48,19 +45,18 @@
         v2.style.display = "none";
         v2.muted = true;
         v3_wrapper.style.display = "none";
+        v3.style.display = "none";
         v3.muted = true;
         v1.addEventListener('ended', myHandler, false);
-        console.log(v1_src);
 
         function myHandler(e) {
             v1_wrapper.style.display = "none";
+            v1.style.display = "none";
             v1.muted = true;
-
             v1_src.removeAttribute('src');
-
-            console.log(v1_src);
-            $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
-            v2.style.display = "flex";
+            v2.src = v2_src;
+            // $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
+            v2.style.display = "block";
             v2.muted = false;
         }
 
@@ -72,8 +68,9 @@
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
-                 $("#video_1").get(0).pause(); 
-            $("#video_3").get(0).play(); 
+                v1.style.display = "none";
+                v3.style.display = "block";
+                $("#video_3").get(0).play(); 
                 v1.muted = true;
                 v3.muted = false;
                 v3_wrapper.style.display = "block";
