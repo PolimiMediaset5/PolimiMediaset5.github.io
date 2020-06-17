@@ -62,19 +62,13 @@
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
-                console.log("mute v1");
+                v1.removeAttribute('src');
                 v1.muted = true;
-                console.log(v1.muted);
                 v3.muted = false;
                 v3_wrapper.style.display = "block";
             }
 
         };
-
-        if (v3_wrapper.style.display == "block") {
-            v1.muted = true;
-            v1_wrapper.style.display = "none";
-        }
 
         v3.addEventListener('ended', goToDetailPage, false);
 
