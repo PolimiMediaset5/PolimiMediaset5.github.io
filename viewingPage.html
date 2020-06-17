@@ -18,7 +18,7 @@
 
     <div id="video-wrapper-1">
         <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
-            <source src="vids/1.mp4" type="video/mp4">
+            <source src="vids/1.mp4" type="video/mp4" id="vid1Src">
         </video>
     </div>
 
@@ -32,6 +32,7 @@
 
     <script>
         var v1 = document.getElementById('video_1');
+        var v1_src = document.getElementById('vid1Src');
         var v1_wrapper = document.getElementById('video-wrapper-1');
         var v2 = document.getElementById('360_video');
         var v3 = document.getElementById('video_3');
@@ -49,7 +50,7 @@
         function myHandler(e) {
             v1_wrapper.style.display = "none";
             v1.muted = true;
-           v1.removeAttribute('src');
+            v1_src.removeAttribute('src');
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
             v2.muted = false;
@@ -59,7 +60,7 @@
         v2.onload = function() {
             load_times = load_times + 1;
             if (load_times == 2) {
-                                v2.src = "http://www.google.com";
+                v2.src = "http://www.google.com";
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
