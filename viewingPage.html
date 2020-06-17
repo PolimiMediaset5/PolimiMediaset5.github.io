@@ -17,12 +17,12 @@
     </div>
 
     <div id="video-wrapper-1">
-        <video requestFullScreen controls  frameborder="0" height="100%" width="100%" id="video_1">
+        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
             <source src="vids/1.mp4" type="video/mp4" id="vid1Src">
         </video>
     </div>
 
-    <iframe src="" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
+    <iframe src="https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false" frameborder="0" height="100%" width="100%" id="360_video"></iframe>
 
     <div id="video-wrapper-3">
         <video requestFullScreen controls frameborder="0" height="100%" width="100%" id="video_3">
@@ -34,7 +34,7 @@
         var v1 = document.getElementById('video_1');
         var v1_src = document.getElementById('vid1Src');
         var v1_wrapper = document.getElementById('video-wrapper-1');
-        var v2_src = "https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false";
+        //var v2_src = "https://hyper360.api.eng.it/H360/use?processId=Pablo&resourceName=G5_2_360&controls=true&postmsg=false&autoplay=true&group=RTI_HYPER360ASSESS&compassStatus=false";
         var v2 = document.getElementById('360_video');
         var v3 = document.getElementById('video_3');
         var v3_wrapper = document.getElementById('video-wrapper-3');
@@ -56,7 +56,7 @@
             v1.style.display = "none";
             v1.muted = true;
             v1_src.removeAttribute('src');
-            v2.src = v2_src;
+            //v2.src = v2_src;
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "block";
             v2.muted = false;
