@@ -50,7 +50,9 @@
         function myHandler(e) {
             v1_wrapper.style.display = "none";
             v1.muted = true;
+  
             v1_src.removeAttribute('src');
+   
             console.log( v1_src);
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
@@ -65,7 +67,7 @@
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
-
+          v1.pause();
                 v1.muted = true;
                 v3.muted = false;
                 v3_wrapper.style.display = "block";
