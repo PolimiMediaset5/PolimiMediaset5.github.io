@@ -17,7 +17,7 @@
     </div>
 
     <div id="video-wrapper-1">
-        <video requestFullScreen controls autoplay frameborder="0" height="100%" width="100%" id="video_1">
+        <video requestFullScreen controls frameborder="0" height="100%" width="100%" id="video_1">
             <source src="" type="video/mp4" id="vid1Src">
         </video>
     </div>
@@ -58,6 +58,9 @@
             v1.muted = true;
             v1_src.removeAttribute('src');
             //v2.src = v2_src;
+            $("#video_1").get(0).pause(); 
+            
+            console.log($("#video_1").get(0).paused);
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "block";
             v2.muted = false;
@@ -67,16 +70,22 @@
         v2.onload = function() {
             load_times = load_times + 1;
             if (load_times == 2) {
+                console.log("vid 2 done!");
                 v2.src = "http://www.google.com";
                 v2.style.display = "none";
                 v2.muted = true;
+                
+                
                 v1_wrapper.style.display = "none";
                 v1.style.display = "none";
                 v1.muted = true;
+                v1_src.removeAttribute('src');
+                $("#video_1").get(0).pause(); 
+                console.log($("#video_1").get(0).paused);
                 
-                v3.style.display = "block";
                 $("#video_3").get(0).play(); 
                 v3.muted = false;
+                v3.style.display = "block";
                 v3_wrapper.style.display = "block";
             }
 
