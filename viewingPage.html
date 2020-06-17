@@ -49,6 +49,7 @@
         function myHandler(e) {
             v1_wrapper.style.display = "none";
             v1.muted = true;
+           v1.removeAttribute('src');
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
             v2.muted = false;
@@ -58,14 +59,15 @@
         v2.onload = function() {
             load_times = load_times + 1;
             if (load_times == 2) {
-                v2.src = "http://www.google.com";
+                                v2.src = "http://www.google.com";
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
-                v1.removeAttribute('src');
+
                 v1.muted = true;
                 v3.muted = false;
                 v3_wrapper.style.display = "block";
+
             }
 
         };
