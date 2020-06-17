@@ -6,7 +6,7 @@
     <title>Walking the Tightrope - VIDO</title>
 
     <link rel="stylesheet" type="text/css" href="viewingPage.css">
-    <script   src="https://code.jquery.com/jquery-3.5.1.slim.js"   integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM="   crossorigin="anonymous"></script>
+     <script src="srcs/jquery-3.5.1.min.js"></script>
 </head>
 
 <body>
@@ -48,7 +48,7 @@
         v3.style.display = "none";
         v3.muted = true;
         v3_wrapper.style.display = "none";
-        v1.addEventListener('ended', myHandler, false);
+        v1.addEventListener('ended', myHandler);
 
         function myHandler(e) {
             v1_wrapper.style.display = "none";
@@ -80,7 +80,7 @@
 
         };
 
-        v3.addEventListener('ended', goToDetailPage, false);
+        v3.addEventListener('ended', goToDetailPage);
 
         function goToDetailPage(e) {
             window.location.href = "videoDetail.html";
