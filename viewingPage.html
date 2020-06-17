@@ -45,15 +45,15 @@
         v3_wrapper.style.display = "none";
         v3.muted = true;
         v1.addEventListener('ended', myHandler, false);
-            console.log( v1_src);
-        
+        console.log(v1_src);
+
         function myHandler(e) {
             v1_wrapper.style.display = "none";
             v1.muted = true;
-  
+
             v1_src.removeAttribute('src');
-   
-            console.log( v1_src);
+
+            console.log(v1_src);
             $("#popup_360").fadeIn(1000).delay(3000).fadeOut(1000);
             v2.style.display = "flex";
             v2.muted = false;
@@ -67,7 +67,9 @@
                 v2.style.display = "none";
                 v2.muted = true;
                 v1_wrapper.style.display = "none";
-          v1.pause();
+                v1.pause();
+                console.log("pause");
+                v1_wrapper.empty();
                 v1.muted = true;
                 v3.muted = false;
                 v3_wrapper.style.display = "block";
